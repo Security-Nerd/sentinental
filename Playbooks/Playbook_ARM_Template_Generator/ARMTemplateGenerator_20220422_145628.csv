@@ -1,0 +1,13 @@
+"Time","Message","Severity"
+"4/22/2022 2:56 PM","Clearing existing Azure connection","Information"
+"4/22/2022 2:56 PM","Clearing existing Azure context 
+","Information"
+"4/22/2022 2:56 PM","Clearing of existing connection and context completed.","Information"
+"4/22/2022 2:57 PM","
+Working in Subscription: Visual Studio Enterprise Subscription","Information"
+"4/22/2022 2:57 PM","Listing Azure Logic Apps workspace from Visual Studio Enterprise Subscription","Information"
+"4/22/2022 2:57 PM","Creating ARM Template","Information"
+"4/22/2022 2:57 PM","@{properties=; id=/subscriptions/6ea6bdf4-1517-4101-9737-339e1b0f9192/resourceGroups/ymudaliar_demo_resources/providers/Microsoft.Logic/workflows/Get-GeoFromIpAndTagIncident; name=Get-GeoFromIpAndTagIncident; type=Microsoft.Logic/workflows; location=centralindia; tags=}","Information"
+"4/22/2022 2:57 PM","@{kind=V1; properties=; id=/subscriptions/6ea6bdf4-1517-4101-9737-339e1b0f9192/resourceGroups/ymudaliar_demo_resources/providers/Microsoft.Web/connections/azuresentinel-Get-GeoFromIpAndTagIncident; name=azuresentinel-Get-GeoFromIpAndTagIncident; type=Microsoft.Web/connections; location=centralindia}","Information"
+"4/22/2022 2:57 PM","@{properties=; id=/subscriptions/6ea6bdf4-1517-4101-9737-339e1b0f9192/providers/Microsoft.Web/locations/centralindia/managedApis/azuresentinel; name=azuresentinel; type=Microsoft.Web/locations/managedApis; location=centralindia}","Information"
+"4/22/2022 2:57 PM","ARM Template created successfully at C:\Users\ymudaliar\Desktop\Get-GeoFromIpAndTagIncident\azuredeploy.json","Information"
