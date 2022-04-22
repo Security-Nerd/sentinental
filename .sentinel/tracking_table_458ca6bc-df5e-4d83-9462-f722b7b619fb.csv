@@ -1,4 +1,4 @@
 FileName, CommitSha
-Playbooks\MDCADataLeakTest\azuredeploy.json,cddc5edbd6873fe794cbb1d004e7ad08567b7834
 Playbooks\PrivatePreviewAlertTriggerTest\azuredeploy.json,7726318eb1019c5a936dd549971f12aa97a5b526
+Playbooks\MDCADataLeakTest\azuredeploy.json,cddc5edbd6873fe794cbb1d004e7ad08567b7834
 Playbooks\Get-GeoFromIpAndTagIncident\azuredeploy.json,1f39d206959840131fa1cc712be3605b3ff4ca2d
